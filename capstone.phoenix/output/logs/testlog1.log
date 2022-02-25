@@ -4877,3 +4877,407 @@
 2022-02-20 23:38:24,010 [main] INFO logger_File - Text verified!
 2022-02-20 23:38:24,010 [main] INFO logger_File - Success Msg Account Updated verified Successfully!
 2022-02-20 23:38:24,163 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-02-24 23:48:10,168 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2022-02-24 23:48:20,106 [main] INFO logger_File - Text verified!
+2022-02-24 23:48:20,734 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:48:21,211 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:48:22,091 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:48:23,860 [main] INFO logger_File - Macbook Item Clicked Successfully!
+2022-02-24 23:48:24,343 [main] INFO logger_File - Add to Cart Button Clicked Successfully!
+2022-02-24 23:48:24,933 [main] INFO logger_File - Success Msg Macbook Verified!
+2022-02-24 23:48:25,320 [main] INFO logger_File - Item 602 Showed In Cart Verified!
+2022-02-24 23:48:28,661 [main] INFO logger_File - Cart Button Clicked Successfully!
+2022-02-24 23:48:32,045 [main] INFO logger_File - Remove from cart button clicked Successfully!
+2022-02-24 23:48:32,282 [main] INFO logger_File - Item removed from cart and cart shows O item verified!
+2022-02-24 23:48:36,659 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-24 23:48:36,711 [main] INFO logger_File - Scenario Product Comparison Started
+2022-02-24 23:48:38,868 [main] INFO logger_File - Text verified!
+2022-02-24 23:48:39,535 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:48:40,037 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:48:40,826 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:48:42,316 [main] INFO logger_File - Prodcut Comparison Macbook Clicked Successfully!
+2022-02-24 23:48:43,599 [main] INFO logger_File - Prodcut Comparison Macbook Air Clicked Successfully!
+2022-02-24 23:48:44,857 [main] INFO logger_File - Success Msg MacBook Air Added to Product Compariosn Verified!
+2022-02-24 23:48:45,329 [main] INFO logger_File - ProductComparison Link Clicked Successfully!
+2022-02-24 23:48:45,791 [main] INFO logger_File - Product Comparison Chart is Displayed
+2022-02-24 23:48:45,971 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-02-24 23:48:45,993 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2022-02-24 23:48:48,213 [main] INFO logger_File - Text verified!
+2022-02-24 23:48:48,760 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:48:49,153 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:48:50,027 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:48:50,315 [main] INFO logger_File - Heart Icon Sony VAIO clicked Successfully!
+2022-02-24 23:48:51,670 [main] INFO logger_File - Login Required Msg Got Successfully!
+2022-02-24 23:48:53,418 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-02-24 23:48:53,449 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-24 23:48:55,929 [main] INFO logger_File - Text verified!
+2022-02-24 23:48:56,340 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:48:56,698 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:48:57,451 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:48:59,091 [main] INFO logger_File - MacBook Pro Clicked Successfully!
+2022-02-24 23:48:59,143 [main] INFO logger_File - Price $2,000.00 Verified!
+2022-02-24 23:48:59,460 [main] INFO logger_File - MacBook Pro Price Verified Successfully!
+2022-02-24 23:49:03,751 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-24 23:53:05,076 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2022-02-24 23:53:08,363 [main] INFO logger_File - Text verified!
+2022-02-24 23:53:08,966 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:53:09,519 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:53:10,452 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:53:12,056 [main] INFO logger_File - Macbook Item Clicked Successfully!
+2022-02-24 23:53:12,529 [main] INFO logger_File - Add to Cart Button Clicked Successfully!
+2022-02-24 23:53:13,034 [main] INFO logger_File - Success Msg Macbook Verified!
+2022-02-24 23:53:13,388 [main] INFO logger_File - Item 602 Showed In Cart Verified!
+2022-02-24 23:53:16,767 [main] INFO logger_File - Cart Button Clicked Successfully!
+2022-02-24 23:53:20,145 [main] INFO logger_File - Remove from cart button clicked Successfully!
+2022-02-24 23:53:20,465 [main] INFO logger_File - Item removed from cart and cart shows O item verified!
+2022-02-24 23:53:20,707 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-24 23:53:20,756 [main] INFO logger_File - Scenario Product Comparison Started
+2022-02-24 23:53:23,462 [main] INFO logger_File - Text verified!
+2022-02-24 23:53:23,861 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:53:24,230 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:53:24,995 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:53:26,466 [main] INFO logger_File - Prodcut Comparison Macbook Clicked Successfully!
+2022-02-24 23:53:27,814 [main] INFO logger_File - Prodcut Comparison Macbook Air Clicked Successfully!
+2022-02-24 23:53:29,081 [main] INFO logger_File - Success Msg MacBook Air Added to Product Compariosn Verified!
+2022-02-24 23:53:29,514 [main] INFO logger_File - ProductComparison Link Clicked Successfully!
+2022-02-24 23:53:29,941 [main] INFO logger_File - Product Comparison Chart is Displayed
+2022-02-24 23:53:30,155 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-02-24 23:53:30,199 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2022-02-24 23:53:32,560 [main] INFO logger_File - Text verified!
+2022-02-24 23:53:33,055 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:53:33,442 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:53:34,191 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:53:34,664 [main] INFO logger_File - Heart Icon Sony VAIO clicked Successfully!
+2022-02-24 23:53:35,980 [main] INFO logger_File - Login Required Msg Got Successfully!
+2022-02-24 23:53:36,217 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-02-24 23:53:36,275 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-24 23:53:38,648 [main] INFO logger_File - Text verified!
+2022-02-24 23:53:39,179 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-24 23:53:39,536 [main] INFO logger_File - Laptop & Notebooks clicked Successfully!
+2022-02-24 23:53:40,346 [main] INFO logger_File - Show All Laptops & Notebooks Clicked Successfully!
+2022-02-24 23:53:42,045 [main] INFO logger_File - MacBook Pro Clicked Successfully!
+2022-02-24 23:53:42,073 [main] INFO logger_File - Price $2,000.00 Verified!
+2022-02-24 23:53:42,370 [main] INFO logger_File - MacBook Pro Price Verified Successfully!
+2022-02-24 23:53:46,618 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-25 00:36:05,583 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-25 00:36:08,693 [main] INFO logger_File - Text verified!
+2022-02-25 00:36:09,515 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:36:10,216 [main] INFO logger_File - Currency button was clicked successfully
+2022-02-25 00:36:10,811 [main] INFO logger_File - Euro was chosen as currency successfully
+2022-02-25 00:36:41,090 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2022-02-25 00:36:41,178 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-25 00:36:43,540 [main] INFO logger_File - Text verified!
+2022-02-25 00:36:44,274 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:36:45,278 [main] INFO logger_File - Shopping Cart Clicked Successfully!
+2022-02-25 00:36:45,553 [main] INFO logger_File - Your shopping Cart is Empty Message Validated Successfully
+2022-02-25 00:36:45,741 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-25 00:39:14,092 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-25 00:39:17,307 [main] INFO logger_File - Text verified!
+2022-02-25 00:39:17,987 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:39:18,764 [main] INFO logger_File - Currency button was clicked successfully
+2022-02-25 00:39:19,649 [main] INFO logger_File - Euro was chosen as currency successfully
+2022-02-25 00:39:19,700 [main] INFO logger_File - Currency changed to Euro
+2022-02-25 00:39:20,217 [main] INFO logger_File - Currency value changed to Euro Succesfully
+2022-02-25 00:39:20,380 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-25 00:39:20,425 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-25 00:39:22,906 [main] INFO logger_File - Text verified!
+2022-02-25 00:39:23,452 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:39:24,431 [main] INFO logger_File - Shopping Cart Clicked Successfully!
+2022-02-25 00:39:24,658 [main] INFO logger_File - Your shopping Cart is Empty Message Validated Successfully
+2022-02-25 00:39:24,848 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-25 00:43:40,409 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-25 00:43:43,714 [main] INFO logger_File - Text verified!
+2022-02-25 00:43:44,389 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:43:44,932 [main] INFO logger_File - Desktops tab clicked Successfully!
+2022-02-25 00:43:46,026 [main] INFO logger_File - Clicked on Show All Desktops Successfully!
+2022-02-25 00:43:46,098 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,118 [main] INFO logger_File - My Account Text Name of each UI Element
+2022-02-25 00:43:46,137 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,153 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,185 [main] INFO logger_File - Wish List (0) Text Name of each UI Element
+2022-02-25 00:43:46,210 [main] INFO logger_File - Shopping Cart Text Name of each UI Element
+2022-02-25 00:43:46,231 [main] INFO logger_File - Checkout Text Name of each UI Element
+2022-02-25 00:43:46,248 [main] INFO logger_File - TEST ENVIRONMENT Text Name of each UI Element
+2022-02-25 00:43:46,266 [main] INFO logger_File - Desktops Text Name of each UI Element
+2022-02-25 00:43:46,287 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,310 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,335 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,363 [main] INFO logger_File - Laptops & Notebooks Text Name of each UI Element
+2022-02-25 00:43:46,388 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,412 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,436 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,462 [main] INFO logger_File - Components Text Name of each UI Element
+2022-02-25 00:43:46,486 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,509 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,531 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,553 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,578 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,604 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,630 [main] INFO logger_File - Tablets Text Name of each UI Element
+2022-02-25 00:43:46,656 [main] INFO logger_File - Software Text Name of each UI Element
+2022-02-25 00:43:46,681 [main] INFO logger_File - Phones & PDAs Text Name of each UI Element
+2022-02-25 00:43:46,700 [main] INFO logger_File - Cameras Text Name of each UI Element
+2022-02-25 00:43:46,719 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,733 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,746 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,761 [main] INFO logger_File - MP3 Players Text Name of each UI Element
+2022-02-25 00:43:46,779 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,798 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,817 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,838 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,856 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,880 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,898 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,913 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,925 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,938 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,963 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:46,986 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,006 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,026 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,045 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,066 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,089 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,113 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,135 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,162 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,189 [main] INFO logger_File - Desktops Text Name of each UI Element
+2022-02-25 00:43:47,211 [main] INFO logger_File - Desktops (13) Text Name of each UI Element
+2022-02-25 00:43:47,227 [main] INFO logger_File -    - PC (0) Text Name of each UI Element
+2022-02-25 00:43:47,245 [main] INFO logger_File -    - Mac (1) Text Name of each UI Element
+2022-02-25 00:43:47,262 [main] INFO logger_File - Laptops & Notebooks (5) Text Name of each UI Element
+2022-02-25 00:43:47,278 [main] INFO logger_File - Components (2) Text Name of each UI Element
+2022-02-25 00:43:47,293 [main] INFO logger_File - Tablets (1) Text Name of each UI Element
+2022-02-25 00:43:47,309 [main] INFO logger_File - Software (0) Text Name of each UI Element
+2022-02-25 00:43:47,324 [main] INFO logger_File - Phones & PDAs (3) Text Name of each UI Element
+2022-02-25 00:43:47,342 [main] INFO logger_File - Cameras (2) Text Name of each UI Element
+2022-02-25 00:43:47,355 [main] INFO logger_File - MP3 Players (4) Text Name of each UI Element
+2022-02-25 00:43:47,383 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,407 [main] INFO logger_File - PC (0) Text Name of each UI Element
+2022-02-25 00:43:47,428 [main] INFO logger_File - Mac (1) Text Name of each UI Element
+2022-02-25 00:43:47,442 [main] INFO logger_File - Product Compare (0) Text Name of each UI Element
+2022-02-25 00:43:47,459 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,475 [main] INFO logger_File - Apple Cinema 30" Text Name of each UI Element
+2022-02-25 00:43:47,489 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,516 [main] INFO logger_File - Canon EOS 5D Camera Text Name of each UI Element
+2022-02-25 00:43:47,536 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,559 [main] INFO logger_File - HP LP3065 Text Name of each UI Element
+2022-02-25 00:43:47,581 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,605 [main] INFO logger_File - HTC Touch HD Text Name of each UI Element
+2022-02-25 00:43:47,631 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,652 [main] INFO logger_File - iPhone Text Name of each UI Element
+2022-02-25 00:43:47,668 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,685 [main] INFO logger_File - iPod Classic Text Name of each UI Element
+2022-02-25 00:43:47,699 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,713 [main] INFO logger_File - MacBook Text Name of each UI Element
+2022-02-25 00:43:47,727 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,743 [main] INFO logger_File - MacBook Air Text Name of each UI Element
+2022-02-25 00:43:47,770 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,796 [main] INFO logger_File - Palm Treo Pro Text Name of each UI Element
+2022-02-25 00:43:47,823 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,848 [main] INFO logger_File - Product 8 Text Name of each UI Element
+2022-02-25 00:43:47,868 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,884 [main] INFO logger_File - Samsung SyncMaster 941BW Text Name of each UI Element
+2022-02-25 00:43:47,900 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:47,918 [main] INFO logger_File - Sony VAIO Text Name of each UI Element
+2022-02-25 00:43:47,938 [main] INFO logger_File - About Us Text Name of each UI Element
+2022-02-25 00:43:47,957 [main] INFO logger_File - Delivery Information Text Name of each UI Element
+2022-02-25 00:43:47,977 [main] INFO logger_File - Privacy Policy Text Name of each UI Element
+2022-02-25 00:43:47,997 [main] INFO logger_File - Terms & Conditions Text Name of each UI Element
+2022-02-25 00:43:48,026 [main] INFO logger_File - Contact Us Text Name of each UI Element
+2022-02-25 00:43:48,051 [main] INFO logger_File - Returns Text Name of each UI Element
+2022-02-25 00:43:48,079 [main] INFO logger_File - Site Map Text Name of each UI Element
+2022-02-25 00:43:48,105 [main] INFO logger_File - Brands Text Name of each UI Element
+2022-02-25 00:43:48,128 [main] INFO logger_File - Gift Certificates Text Name of each UI Element
+2022-02-25 00:43:48,149 [main] INFO logger_File - Affiliate Text Name of each UI Element
+2022-02-25 00:43:48,168 [main] INFO logger_File - Specials Text Name of each UI Element
+2022-02-25 00:43:48,194 [main] INFO logger_File - My Account Text Name of each UI Element
+2022-02-25 00:43:48,218 [main] INFO logger_File - Order History Text Name of each UI Element
+2022-02-25 00:43:48,238 [main] INFO logger_File - Wish List Text Name of each UI Element
+2022-02-25 00:43:48,258 [main] INFO logger_File - Newsletter Text Name of each UI Element
+2022-02-25 00:43:48,273 [main] INFO logger_File - OpenCart Text Name of each UI Element
+2022-02-25 00:43:48,334 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,349 [main] INFO logger_File - My Account Text Name of each UI Element
+2022-02-25 00:43:48,359 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,377 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,390 [main] INFO logger_File - Wish List (0) Text Name of each UI Element
+2022-02-25 00:43:48,402 [main] INFO logger_File - Shopping Cart Text Name of each UI Element
+2022-02-25 00:43:48,414 [main] INFO logger_File - Checkout Text Name of each UI Element
+2022-02-25 00:43:48,427 [main] INFO logger_File - TEST ENVIRONMENT Text Name of each UI Element
+2022-02-25 00:43:48,436 [main] INFO logger_File - Desktops Text Name of each UI Element
+2022-02-25 00:43:48,447 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,459 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,472 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,483 [main] INFO logger_File - Laptops & Notebooks Text Name of each UI Element
+2022-02-25 00:43:48,494 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,507 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,520 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,533 [main] INFO logger_File - Components Text Name of each UI Element
+2022-02-25 00:43:48,548 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,562 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,574 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,586 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,597 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,608 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,618 [main] INFO logger_File - Tablets Text Name of each UI Element
+2022-02-25 00:43:48,630 [main] INFO logger_File - Software Text Name of each UI Element
+2022-02-25 00:43:48,645 [main] INFO logger_File - Phones & PDAs Text Name of each UI Element
+2022-02-25 00:43:48,660 [main] INFO logger_File - Cameras Text Name of each UI Element
+2022-02-25 00:43:48,670 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,683 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,697 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,710 [main] INFO logger_File - MP3 Players Text Name of each UI Element
+2022-02-25 00:43:48,722 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,736 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,747 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,758 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,770 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,781 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,793 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,804 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,816 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,828 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,836 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,843 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,851 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,858 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,865 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,873 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,880 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,887 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,894 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,906 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:48,915 [main] INFO logger_File - Desktops Text Name of each UI Element
+2022-02-25 00:43:48,924 [main] INFO logger_File - Desktops (13) Text Name of each UI Element
+2022-02-25 00:43:48,933 [main] INFO logger_File -    - PC (0) Text Name of each UI Element
+2022-02-25 00:43:48,942 [main] INFO logger_File -    - Mac (1) Text Name of each UI Element
+2022-02-25 00:43:48,949 [main] INFO logger_File - Laptops & Notebooks (5) Text Name of each UI Element
+2022-02-25 00:43:48,957 [main] INFO logger_File - Components (2) Text Name of each UI Element
+2022-02-25 00:43:48,966 [main] INFO logger_File - Tablets (1) Text Name of each UI Element
+2022-02-25 00:43:48,975 [main] INFO logger_File - Software (0) Text Name of each UI Element
+2022-02-25 00:43:48,984 [main] INFO logger_File - Phones & PDAs (3) Text Name of each UI Element
+2022-02-25 00:43:48,999 [main] INFO logger_File - Cameras (2) Text Name of each UI Element
+2022-02-25 00:43:49,012 [main] INFO logger_File - MP3 Players (4) Text Name of each UI Element
+2022-02-25 00:43:49,025 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,034 [main] INFO logger_File - PC (0) Text Name of each UI Element
+2022-02-25 00:43:49,042 [main] INFO logger_File - Mac (1) Text Name of each UI Element
+2022-02-25 00:43:49,049 [main] INFO logger_File - Product Compare (0) Text Name of each UI Element
+2022-02-25 00:43:49,064 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,078 [main] INFO logger_File - Apple Cinema 30" Text Name of each UI Element
+2022-02-25 00:43:49,092 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,105 [main] INFO logger_File - Canon EOS 5D Camera Text Name of each UI Element
+2022-02-25 00:43:49,114 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,122 [main] INFO logger_File - HP LP3065 Text Name of each UI Element
+2022-02-25 00:43:49,133 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,141 [main] INFO logger_File - HTC Touch HD Text Name of each UI Element
+2022-02-25 00:43:49,156 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,171 [main] INFO logger_File - iPhone Text Name of each UI Element
+2022-02-25 00:43:49,181 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,195 [main] INFO logger_File - iPod Classic Text Name of each UI Element
+2022-02-25 00:43:49,208 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,221 [main] INFO logger_File - MacBook Text Name of each UI Element
+2022-02-25 00:43:49,232 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,243 [main] INFO logger_File - MacBook Air Text Name of each UI Element
+2022-02-25 00:43:49,252 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,261 [main] INFO logger_File - Palm Treo Pro Text Name of each UI Element
+2022-02-25 00:43:49,274 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,287 [main] INFO logger_File - Product 8 Text Name of each UI Element
+2022-02-25 00:43:49,300 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,318 [main] INFO logger_File - Samsung SyncMaster 941BW Text Name of each UI Element
+2022-02-25 00:43:49,329 [main] INFO logger_File -  Text Name of each UI Element
+2022-02-25 00:43:49,340 [main] INFO logger_File - Sony VAIO Text Name of each UI Element
+2022-02-25 00:43:49,356 [main] INFO logger_File - About Us Text Name of each UI Element
+2022-02-25 00:43:49,368 [main] INFO logger_File - Delivery Information Text Name of each UI Element
+2022-02-25 00:43:49,385 [main] INFO logger_File - Privacy Policy Text Name of each UI Element
+2022-02-25 00:43:49,401 [main] INFO logger_File - Terms & Conditions Text Name of each UI Element
+2022-02-25 00:43:49,416 [main] INFO logger_File - Contact Us Text Name of each UI Element
+2022-02-25 00:43:49,429 [main] INFO logger_File - Returns Text Name of each UI Element
+2022-02-25 00:43:49,442 [main] INFO logger_File - Site Map Text Name of each UI Element
+2022-02-25 00:43:49,456 [main] INFO logger_File - Brands Text Name of each UI Element
+2022-02-25 00:43:49,472 [main] INFO logger_File - Gift Certificates Text Name of each UI Element
+2022-02-25 00:43:49,487 [main] INFO logger_File - Affiliate Text Name of each UI Element
+2022-02-25 00:43:49,501 [main] INFO logger_File - Specials Text Name of each UI Element
+2022-02-25 00:43:49,514 [main] INFO logger_File - My Account Text Name of each UI Element
+2022-02-25 00:43:49,528 [main] INFO logger_File - Order History Text Name of each UI Element
+2022-02-25 00:43:49,540 [main] INFO logger_File - Wish List Text Name of each UI Element
+2022-02-25 00:43:49,550 [main] INFO logger_File - Newsletter Text Name of each UI Element
+2022-02-25 00:43:49,566 [main] INFO logger_File - OpenCart Text Name of each UI Element
+2022-02-25 00:43:49,567 [main] INFO logger_File - All Items present on Desktop Page verified!
+2022-02-25 00:43:49,759 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-25 00:43:49,823 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart Started
+2022-02-25 00:43:52,027 [main] INFO logger_File - Text verified!
+2022-02-25 00:43:52,688 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:43:53,156 [main] INFO logger_File - Desktops tab clicked Successfully!
+2022-02-25 00:43:54,035 [main] INFO logger_File - Clicked on Show All Desktops Successfully!
+2022-02-25 00:43:54,493 [main] INFO logger_File - Add to cart HPLP clicked Successfully!
+2022-02-25 00:43:57,437 [main] INFO logger_File - User selected quantity=1 Successfully!
+2022-02-25 00:43:57,799 [main] INFO logger_File - Add to cart clicked on HPLP page Successfully!
+2022-02-25 00:43:57,952 [main] INFO logger_File - Text verified!
+2022-02-25 00:43:58,189 [main] INFO logger_File - HPLP added to cart Successfully!
+2022-02-25 00:43:58,394 [main] INFO logger_File - Scenario User add HP LP3065  from Desktops tab to the cart PASSED
+2022-02-25 00:43:58,416 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-25 00:44:00,703 [main] INFO logger_File - Text verified!
+2022-02-25 00:44:01,379 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:44:01,829 [main] INFO logger_File - Desktops tab clicked Successfully!
+2022-02-25 00:44:02,666 [main] INFO logger_File - Clicked on Show All Desktops Successfully!
+2022-02-25 00:44:03,121 [main] INFO logger_File - Add To cart Clicked Successfully!
+2022-02-25 00:44:04,969 [main] INFO logger_File - Red Color Selected Successfully!
+2022-02-25 00:44:06,536 [main] INFO logger_File - quantity 1 selected successfully!
+2022-02-25 00:44:06,887 [main] INFO logger_File - Add to cart button clicked successfully
+2022-02-25 00:44:07,432 [main] INFO logger_File - Canon added to cart successfully!
+2022-02-25 00:44:07,697 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-25 00:44:07,769 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-25 00:44:09,962 [main] INFO logger_File - Text verified!
+2022-02-25 00:44:10,558 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:44:10,962 [main] INFO logger_File - Desktops tab clicked Successfully!
+2022-02-25 00:44:11,842 [main] INFO logger_File - Clicked on Show All Desktops Successfully!
+2022-02-25 00:44:13,386 [main] INFO logger_File - CanonEOS5D item clicked successfully!
+2022-02-25 00:44:13,806 [main] INFO logger_File - Review link clicked successfully!
+2022-02-25 00:44:14,344 [main] INFO logger_File - Review given Successfully!
+2022-02-25 00:44:14,673 [main] INFO logger_File - Continue button clicked successfully!
+2022-02-25 00:44:15,132 [main] INFO logger_File - Review Success Message Succesful
+2022-02-25 00:44:19,428 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-25 00:45:47,757 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-25 00:45:50,894 [main] INFO logger_File - Text verified!
+2022-02-25 00:45:51,593 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:45:52,139 [main] INFO logger_File - My Account Clicked Successfully
+2022-02-25 00:45:53,272 [main] INFO logger_File - Register button was clicked successfully
+2022-02-25 00:45:53,956 [main] INFO logger_File - User data entered successfully
+2022-02-25 00:45:54,297 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-02-25 00:45:54,942 [main] INFO logger_File - Continue button clicked successfully
+2022-02-25 00:45:57,721 [main] INFO logger_File - Clicked On register For Affiliate Successfully!
+2022-02-25 00:45:58,070 [main] INFO logger_File - Register Info Entered Successfully!
+2022-02-25 00:45:58,399 [main] INFO logger_File - About Us ChechBox Checked Successfully!
+2022-02-25 00:45:59,120 [main] INFO logger_File - Continue Button Clicked Successfully!
+2022-02-25 00:45:59,407 [main] INFO logger_File - SuccessMsg Present on UI Verified!
+2022-02-25 00:46:00,106 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-25 00:46:26,229 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-25 00:46:29,323 [main] INFO logger_File - Text verified!
+2022-02-25 00:46:30,022 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:46:30,593 [main] INFO logger_File - My Account Clicked Successfully
+2022-02-25 00:46:31,450 [main] INFO logger_File - Login Clicked Successfully!
+2022-02-25 00:46:31,736 [main] INFO logger_File - username and password entered successfiully!
+2022-02-25 00:46:32,549 [main] INFO logger_File - Loging Button Clicked Successsfully!
+2022-02-25 00:46:32,925 [main] INFO logger_File - Text verified!
+2022-02-25 00:46:32,925 [main] INFO logger_File - User is logged into MyAccount Dashboard validated!
+2022-02-25 00:46:33,420 [main] INFO logger_File - Edit Affiliate Link Clicked Successfully!
+2022-02-25 00:46:34,557 [main] INFO logger_File - bank Transfer Radio Button Clicked Successfully!
+2022-02-25 00:46:35,162 [main] INFO logger_File - Edit Affiliate Information Filled Successfully!
+2022-02-25 00:46:35,692 [main] INFO logger_File - Continue Button Clicked Successfully!
+2022-02-25 00:46:36,017 [main] INFO logger_File - Success Msg Verified!
+2022-02-25 00:46:36,245 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-25 00:46:36,371 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-25 00:46:38,712 [main] INFO logger_File - Text verified!
+2022-02-25 00:46:39,412 [main] INFO logger_File - Retail Website HomePage Validated Succesfully
+2022-02-25 00:46:39,860 [main] INFO logger_File - My Account Clicked Successfully
+2022-02-25 00:46:40,578 [main] INFO logger_File - Login Clicked Successfully!
+2022-02-25 00:46:40,808 [main] INFO logger_File - username and password entered successfiully!
+2022-02-25 00:46:41,497 [main] INFO logger_File - Loging Button Clicked Successsfully!
+2022-02-25 00:46:41,795 [main] INFO logger_File - Text verified!
+2022-02-25 00:46:41,795 [main] INFO logger_File - User is logged into MyAccount Dashboard validated!
+2022-02-25 00:46:42,771 [main] INFO logger_File - Edit Account Information Link Clicked Successfully!
+2022-02-25 00:46:43,231 [main] INFO logger_File - Edit Account Info Entered Successfully!
+2022-02-25 00:46:43,832 [main] INFO logger_File - Continue Button Clicked Successfully!
+2022-02-25 00:46:44,155 [main] INFO logger_File - Text verified!
+2022-02-25 00:46:44,155 [main] INFO logger_File - Success Msg Account Updated verified Successfully!
+2022-02-25 00:46:44,328 [main] INFO logger_File - Scenario Edit your account Information PASSED
