@@ -17,7 +17,7 @@ public class RetailPageSteps extends Base {
 
 	RetailPageObjects retailPage = new RetailPageObjects();
 
-	// Background
+	//Background
 	@Given("User click  on MyAccount")
 	public void user_click_on_my_account() throws IOException {
 		retailPage.clickOnmyAccount();
@@ -51,45 +51,7 @@ public class RetailPageSteps extends Base {
 		logger.info("User is logged into MyAccount Dashboard validated!");
 	}
 
-	// RegisterAsAffiliate
-//	@And ("User click on Continue button My Account Page")
-//	
-//	@And ("User click on ‘Register for an Affiliate Account’ link")
-//	public void user_click_on_register_for_an_affiliate_account_link() throws IOException {
-//		retailPage.clickOnRegisterAffiliate();
-//		logger.info("Clicked On register For Affiliate Successfully!");
-//	}
-//
-//	@When("User fill affiliate form with below information")
-//	public void user_fill_affiliate_form_with_below_information(DataTable dataTable) {
-//		List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
-//		retailPage.enterCompanyName(data.get(0).get("company"));
-//		retailPage.enterWebsite(data.get(0).get("website"));
-//		retailPage.enterTaxID(data.get(0).get("taxID"));
-//		retailPage.enterPaymentMethod();
-//		logger.info("Register Info Entered Successfully!");
-//	}
-//
-//	@When("User check on About us check box")
-//	public void user_check_on_about_us_check_box() throws IOException {
-//		retailPage.checkAboutUsCheckBox();
-//		logger.info("About Us ChechBox Checked Successfully!");
-//	}
-//
-//	@When("User click on Continue button Register Affiliate")
-//	public void user_click_on_continue_button_register_affiliate() throws IOException {
-//		retailPage.clickContinueButtonRegisterAffiliate();
-//		logger.info("Continue Button Clicked Successfully!");
-//	}
-//
-//	@Then("User should see a success message register as affiliate")
-//	public void user_should_see_a_success_message_register_as_affiliate() throws IOException {
-//		retailPage.verifySuccessMsgRegisterAsAffiliate();
-//		logger.info("SuccessMsg Present on UI Verified!");
-//	}
-
-	// EditAffiliateInfo
-
+	//@EditAffiliateInfo
 	@When("User click on ‘Edit your affiliate informationlink")
 	public void user_click_on_edit_your_affiliate_informationlink() throws IOException {
 		retailPage.clickOnEditAffiliateInfo();
@@ -124,8 +86,8 @@ public class RetailPageSteps extends Base {
 		retailPage.VerifySuccessMsgEditAffiliate();
 		logger.info("Success Msg Verified!");
 	}
-
-	// EditAccountInfo
+	
+	//@EditAccountInfo	
 	@When("User click on ‘Edit your account information’ link")
 	public void user_click_on_edit_your_account_information_link() throws IOException {
 		retailPage.clickOnEditAccountInfo();

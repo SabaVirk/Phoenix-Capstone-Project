@@ -23,7 +23,7 @@ public class LaptopsNotebooksSteps extends Base {
 		laptopsNotebooks.clickOnShowAllLaptop();
 		logger.info("Show All Laptops & Notebooks Clicked Successfully!");
 	}
-
+	//@Macbook
 	@And("User click on MacBook  item")
 	public void user_click_on_mac_book_item() throws IOException {
 		laptopsNotebooks.clickOnMacBook();
@@ -53,7 +53,6 @@ public class LaptopsNotebooksSteps extends Base {
 	public void user_click_on_cart_option() throws IOException {
 		laptopsNotebooks.clickonCartOptionMacBook();
 		logger.info("Cart Button Clicked Successfully!");
-
 	}
 
 	@And("user click on red X button to remove the item from cart")
@@ -68,6 +67,7 @@ public class LaptopsNotebooksSteps extends Base {
 		logger.info("Item removed from cart and cart shows O item verified!");
 	}
 
+	//@ProductComparison
 	@And("User click on product comparison icon on MacBook")
 	public void user_click_on_product_comparison_icon_on_mac_book() throws InterruptedException, IOException {
 		laptopsNotebooks.clickOnProdCompMacBook();
@@ -86,7 +86,6 @@ public class LaptopsNotebooksSteps extends Base {
 		System.out.println("string from stepDefinition method: " + string);
 		laptopsNotebooks.successMsgMacbookAirToProdComp(string);
 		logger.info("Success Msg MacBook Air Added to Product Compariosn Verified!");
-
 	}
 
 	@And("User click on Product comparison link")
@@ -100,7 +99,8 @@ public class LaptopsNotebooksSteps extends Base {
 		laptopsNotebooks.productComparisonChart();
 		logger.info("Product Comparison Chart is Displayed");
 	}
-
+	
+	//@SonyVAIOWishList
 	@And("User click on heart icon to add ‘Sony VAIO’ laptop to wish list")
 	public void user_click_on_heart_icon_to_add_sony_va_io_laptop_to_wish_list() throws IOException {
 		laptopsNotebooks.clickOnHearIconSony();
@@ -108,24 +108,23 @@ public class LaptopsNotebooksSteps extends Base {
 	}
 
 	@Then("User should get a message for Sony {string}")
-	public void user_should_get_a_message_you_must_login_or_create_an_account_to_save_sony_vaio_to_your_wish_list(String string)
-			throws IOException, InterruptedException {
+	public void user_should_get_a_message_you_must_login_or_create_an_account_to_save_sony_vaio_to_your_wish_list(
+			String string) throws IOException, InterruptedException {
 		laptopsNotebooks.msgNeedLoginSony(string);
 		logger.info("Login Required Msg Got Successfully!");
 	}
 
+	//@MacBookPro
 	@And("User click on MacBook Pro item")
 	public void user_click_on_mac_book_pro_item() throws IOException {
 		laptopsNotebooks.clickOnMacBookPro();
 		logger.info("MacBook Pro Clicked Successfully!");
-
 	}
 
 	@Then("User should see  {string} price tag is present on UI.")
 	public void user_should_see_$_price_tag_is_present_on_ui(String string) throws IOException {
 		laptopsNotebooks.pricetagMacBookPro(string);
 		logger.info("MacBook Pro Price Verified Successfully!");
-
 	}
 
 }

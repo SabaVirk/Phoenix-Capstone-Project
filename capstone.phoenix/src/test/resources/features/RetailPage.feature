@@ -12,18 +12,6 @@ And User click on Login button
 Then User should be logged in to MyAccount dashboard
 
 
-#@RegisterAsAffiliate
-#Scenario: Register as an Affiliate user with Cheque Payment Method
-#When User click on Continue button My Account Page
-#And User click on ‘Register for an Affiliate Account’ link 
-#And User fill affiliate form with below information
-#|company|website|taxID|paymentMethod|
-#|AyeshaFatima|www.ayeshafatima.com|Tax1234567|null|
-#And User check on About us check box 
-#And User click on Continue button Register Affiliate
-#Then User should see a success message register as affiliate
-
-
 @EditAffiliateInfo
 Scenario: Edit your affiliate information from Cheque payment method to Bank Transfer
 When User click on ‘Edit your affiliate informationlink 
@@ -34,7 +22,7 @@ And User fill Bank information with below information
 And User click on Continue button Edit Affiliate
 Then User should see a success message edit affiliate information
 
-@EditAccount
+@EditAccountInfo
 Scenario: Edit your account Information 
 When User click on ‘Edit your account information’ link 
 And User modify below information 

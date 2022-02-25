@@ -10,7 +10,7 @@ Scenario: Register as an Affiliate user with Cheque Payment Method
  And user click on register button
  And user fill registeration form with information below
       | firstname | lastname | email                     | telephone | password | confirmPassword |
-      | Ayesha    | Fatima   | ayeshafatima12345678901@gmail.com | 123456    | ayesha   | ayesha          |
+      | Ayesha    | Fatima   | ayeshafatima123456789012@gmail.com | 123456    | ayesha   | ayesha          |
  And user click on agree to terms checkbox
  And user click on continue button
  And User click on ‘Register for an Affiliate Account’ link

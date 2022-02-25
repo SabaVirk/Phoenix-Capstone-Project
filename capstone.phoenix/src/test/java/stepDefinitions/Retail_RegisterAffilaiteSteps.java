@@ -12,11 +12,10 @@ import io.cucumber.java.en.When;
 
 import pageObjects.Retail_RegisterAffiliatePageObjects;
 
-public class Retail_RegisterAffilaiteSteps extends Base{
-	
+public class Retail_RegisterAffilaiteSteps extends Base {
+
 	Retail_RegisterAffiliatePageObjects retailRegisterAffiliatePage = new Retail_RegisterAffiliatePageObjects();
 
-	
 	@And("user click on register button")
 	public void user_click_on_register_button() throws IOException {
 		retailRegisterAffiliatePage.clickOnRegister();
@@ -52,8 +51,7 @@ public class Retail_RegisterAffilaiteSteps extends Base{
 		}
 	}
 
-	
-	@And ("User click on ‘Register for an Affiliate Account’ link")
+	@And("User click on ‘Register for an Affiliate Account’ link")
 	public void user_click_on_register_for_an_affiliate_account_link() throws IOException {
 		retailRegisterAffiliatePage.clickOnMyAccountLink();
 		retailRegisterAffiliatePage.clickOnRegisterAffiliate();
@@ -61,7 +59,7 @@ public class Retail_RegisterAffilaiteSteps extends Base{
 	}
 
 	@When("User fill affiliate form with below information")
-	public void user_fill_affiliate_form_with_below_information(DataTable dataTable) throws IOException  {
+	public void user_fill_affiliate_form_with_below_information(DataTable dataTable) throws IOException {
 		List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
 		retailRegisterAffiliatePage.enterCompanyName(data.get(0).get("company"));
 		retailRegisterAffiliatePage.enterWebsite(data.get(0).get("website"));
@@ -88,9 +86,4 @@ public class Retail_RegisterAffilaiteSteps extends Base{
 		logger.info("SuccessMsg Present on UI Verified!");
 	}
 
-	
-	
-	
-	
-	
 }

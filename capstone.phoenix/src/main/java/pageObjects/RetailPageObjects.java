@@ -18,7 +18,6 @@ public class RetailPageObjects extends Base {
 		PageFactory.initElements(driver, this);
 	}
 
-	// Background
 	@FindBy(xpath = "//a[text()='TEST ENVIRONMENT']")
 	private WebElement textToValiidateRetailpage;
 	@FindBy(xpath = "//a[@title ='My Account']")
@@ -33,31 +32,6 @@ public class RetailPageObjects extends Base {
 	private WebElement loginButtonLoginPage;
 	@FindBy(xpath = "//h2[text()='My Account']")
 	private WebElement myAccountDashboard;
-	
-
-//	@FindBy(xpath = "//a[contains(text(),'Register')]")
-//	private WebElement registerForAffiliateAccount;
-//	@FindBy(xpath = "//input[@id='input-company']")
-//	private WebElement inputCompanyField;
-//	@FindBy(xpath = "//input[@id='input-website']")
-//	private WebElement inputWebsiteField;
-//	@FindBy(xpath = "//input[@id='input-tax']")
-//	private WebElement inputTaxIDField;
-//	@FindBy(xpath = "//div[@class='radio']")
-//	private WebElement radioButtons;
-//	@FindBy(xpath = "//div[@class='radio'][1]")
-//	private WebElement chequeRadioButton;
-//	@FindBy(xpath = "//div[@class='radio'][2]")
-//	private WebElement payPalRadioButton;
-//	@FindBy(xpath = "//div[@class='radio'][3]")
-//	private WebElement bankTransferRadio;
-//	@FindBy(xpath = "//input[@name='agree']")
-//	private WebElement aboutUsCheckBox;
-//	@FindBy(xpath = "//input[@class='btn btn-primary']")
-//	private WebElement continueButtonRegisterAffiliate;
-//	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
-//	private WebElement successMsgRegisterAsAffiliate;
-
 	@FindBy(xpath = "//a[contains(text(),'Edit your affiliate')]")
 	private WebElement editAffiliateLink;
 	@FindBy(xpath = "//input[@value='bank']")
@@ -76,7 +50,6 @@ public class RetailPageObjects extends Base {
 	private WebElement continueButtonEditAffiliate;
 	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
 	private WebElement successMsgEditAffiliate;
-
 	@FindBy(xpath = "//a[contains(text(),'Edit your account')]")
 	private WebElement editAccountInfoLink;
 	@FindBy(id = "input-firstname")
@@ -93,22 +66,22 @@ public class RetailPageObjects extends Base {
 	private WebElement successMsgEditAccountInfo;
 	
 
-// Background
-	// And User click on MyAccount
+	//Background
+	//And User click on MyAccount
 	public void clickOnmyAccount() throws IOException {
 		Utilities.highlightelementRedBorder(myAccountRetailPage);
 		Utilities.takeScreenShot("Retail-Background-myAccount");
 		myAccountRetailPage.click();
 	}
 
-	// When User click on Login
+	//When User click on Login
 	public void clickOnLogin() throws IOException {
 		Utilities.highlightelementRedBorder(loginButtonMyAccount);
 		Utilities.takeScreenShot("Retail-Background-LoginButton");
 		loginButtonMyAccount.click();
 	}
 
-	// And User enter username and password 
+	//And User enter username and password 
 	public void enterUserName(String username) throws IOException {
 		Utilities.highlightelementRedBorder(inputEmailFieldLoginpage);
 		inputEmailFieldLoginpage.sendKeys(username);
@@ -118,14 +91,14 @@ public class RetailPageObjects extends Base {
 		inputPasswordFieldLoginpage.sendKeys(password);
 	}
 
-	// And User click on Login button
+	//And User click on Login button
 	public void clickOnLoginButton() throws IOException {
 		Utilities.highlightelementRedBorder(loginButtonLoginPage);
 		Utilities.takeScreenShot("Background-Retail-LoginButtonLoginPage");
 		loginButtonLoginPage.click();
 	}
 
-	// Then User should be logged in to MyAccount dashboard
+	//Then User should be logged in to MyAccount dashboard
 	public void validatemyAccountDashboard() throws IOException {
 		Utilities.highlightelementRedBorder(myAccountDashboard);
 		Utilities.takeScreenShot("Background-Retail-MyAccountDashboard");
@@ -137,60 +110,8 @@ public class RetailPageObjects extends Base {
 		}
 	}
 
-//@RegisterAsAffiliate
-	// Scenario:Register as an Affiliate user with Cheque Payment Method
 
-//	// When User click on ‘Register for an Affiliate Account’ link
-//	public void clickOnRegisterAffiliate() throws IOException {
-//		Utilities.highlightelementRedBorder(registerForAffiliateAccount);
-//		Utilities.takeScreenShot("Retail-Register-ClickRegister");
-//		registerForAffiliateAccount.click();
-//	}
-
-	// And User fill affiliate form with below information
-//	public void enterCompanyName(String company) {
-//		inputCompanyField.sendKeys(company);
-//	}
-//
-//	public void enterWebsite(String website) {
-//		inputWebsiteField.sendKeys(website);
-//	}
-//
-//	public void enterTaxID(String taxID) {
-//		inputTaxIDField.sendKeys(taxID);
-//	}
-//
-//	public void enterPaymentMethod() {
-//		boolean isSelected = chequeRadioButton.isSelected();
-//		if (isSelected == false) {
-//			chequeRadioButton.click();
-//		}
-//	}
-//
-//	// And User check on About us check box
-//	public void checkAboutUsCheckBox() throws IOException {
-//		Utilities.highlightelementRedBorder(aboutUsCheckBox);
-//		Utilities.takeScreenShot("Retail-Register-AboutUsCheckBox");
-//		aboutUsCheckBox.click();
-//	}
-//
-//	// And User click on Continue button Register Affiliate
-//	public void clickContinueButtonRegisterAffiliate() throws IOException {
-//		Utilities.highlightelementRedBorder(continueButtonRegisterAffiliate);
-//		Utilities.takeScreenShot("Retail-Register-ContinueButton");
-//		continueButtonRegisterAffiliate.click();
-//	}
-//
-//	// Then User should see a success message register as affiliate
-//	public void verifySuccessMsgRegisterAsAffiliate() throws IOException {
-//		Utilities.highlightelementRedBorder(successMsgRegisterAsAffiliate);
-//		Utilities.takeScreenShot("Retail-Register-SuccessMsgRegisterAffiliate");
-//		System.out.println(successMsgRegisterAsAffiliate.getText() + " Success Msg on UI ");
-//	}
-
-//@EditAffiliateInfo
-	// Scenario: Edit your affiliate information from Cheque payment method to Bank
-	// Transfer
+	//@EditAffiliateInfo
 	// When User click on ‘Edit your affiliate informationlink
 	public void clickOnEditAffiliateInfo() throws IOException {
 		Utilities.highlightelementRedBorder(editAffiliateLink);
@@ -198,7 +119,7 @@ public class RetailPageObjects extends Base {
 		editAffiliateLink.click();
 	}
 
-	// And user click on Bank Transfer radio button
+	//And user click on Bank Transfer radio button
 	public void clickOnBankTransferRadio() {
 		bankTransferRadioButton.click();
 			boolean isSelected = bankTransferRadioButton.isSelected();
@@ -216,7 +137,7 @@ public class RetailPageObjects extends Base {
 		}
 	
 
-	// And User fill Bank information with below information
+	//And User fill Bank information with below information
 	public void enterBankName (String bankName) throws IOException {
 		Utilities.highlightelementRedBorder(inputBankNameField);	
 		inputBankNameField.sendKeys(bankName);
@@ -238,7 +159,7 @@ public class RetailPageObjects extends Base {
 		inputAccountNumberField.sendKeys(accountNumber);
 	}
 
-	// And User click on Continue button Edit Affiliate
+	//And User click on Continue button Edit Affiliate
 	public void clickOnContinueButtonEditAffiliate() throws IOException {
 		Utilities.highlightelementRedBorder(continueButtonEditAffiliate);
 		Utilities.takeScreenShot("Retail-EditAffiliate-ContinueButton");
@@ -246,23 +167,22 @@ public class RetailPageObjects extends Base {
 
 	}
 
-	// Then User should see a success message edit affiliate information
+	//Then User should see a success message edit affiliate information
 	public void VerifySuccessMsgEditAffiliate() throws IOException {
 		Utilities.highlightelementRedBorder(successMsgEditAffiliate);
 		Utilities.takeScreenShot("Reatail-EditAffiliate-SuccessMsg");
 		System.out.println(successMsgEditAffiliate.getText() + " This is Success Msg on UI");
 	}
 
-//@EditAccount
-	// Scenario: Edit your account Information
-	// When User click on ‘Edit your account information’ link
+	//@EditAccount
+	//When User click on ‘Edit your account information’ link
 	public void clickOnEditAccountInfo() throws IOException {
 		Utilities.highlightelementRedBorder(editAccountInfoLink);
 		Utilities.takeScreenShot("Retail-EditAccountInfo-Link");
 		editAccountInfoLink.click();
 	}
 
-	// And User modify below information
+	//And User modify below information
 	public void enterFirstName (String firstname) {
 		inputFirstNameField.clear();
 		inputFirstNameField.sendKeys(firstname);
@@ -280,15 +200,14 @@ public class RetailPageObjects extends Base {
 		inputTelephoneField.sendKeys(telephone);
 	}
 
-	// And User click on continue button Edit Account
+	//And User click on continue button Edit Account
 	public void clickOnContinueButtonEditAccountInfo() throws IOException {
 		Utilities.highlightelementRedBorder(continueButtonEditAccountInfo);
 		Utilities.takeScreenShot("Retail-EditAccountInfo-ContinueButton");
 		continueButtonEditAccountInfo.click();
 	}
 
-	// Then User should see a message ' Success: Your account has been successfully
-	// updated.'
+	//Then User should see a message ' Success: Your account has been successfully updated.'
 	public void verifySuccessMsgAccountUpdated(String succesMsgstring) throws IOException {
 		Utilities.highlightelementRedBorder(successMsgEditAccountInfo);
 		Utilities.takeScreenShot("Retail-EditAccountInfo-SuccessMsg");

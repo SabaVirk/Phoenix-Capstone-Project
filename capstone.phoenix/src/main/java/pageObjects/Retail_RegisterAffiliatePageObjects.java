@@ -34,7 +34,6 @@ public class Retail_RegisterAffiliatePageObjects extends Base {
 	private WebElement agreeToTermsCheckBox;
 	@FindBy(xpath = "//input[@value='Continue']")
 	private WebElement continueButton;
-
 	@FindBy(xpath = "//aside//a[1]")
 	private WebElement myAccountSideColumn;
 	@FindBy(xpath = "//a[contains(text(),'Register')]")
@@ -110,14 +109,14 @@ public class Retail_RegisterAffiliatePageObjects extends Base {
 		myAccountSideColumn.click();	
 	}
 
-	// When User click on ‘Register for an Affiliate Account’ link
+	//When User click on ‘Register for an Affiliate Account’ link
 	public void clickOnRegisterAffiliate() throws IOException {
 		Utilities.highlightelementRedBorder(registerForAffiliateAccount);
 		Utilities.takeScreenShot("Retail-Register-ClickRegister");
 		registerForAffiliateAccount.click();
 	}
 
-	// And User fill affiliate form with below information
+	//And User fill affiliate form with below information
 	public void enterCompanyName(String company) {
 		inputCompanyField.sendKeys(company);
 	}
@@ -151,21 +150,21 @@ public class Retail_RegisterAffiliatePageObjects extends Base {
 	}
 	
 
-	// And User check on About us check box
+	//And User check on About us check box
 	public void checkAboutUsCheckBox() throws IOException {
 		Utilities.highlightelementRedBorder(aboutUsCheckBox);
 		Utilities.takeScreenShot("Retail-Register-AboutUsCheckBox");
 		aboutUsCheckBox.click();
 	}
 
-	// And User click on Continue button Register Affiliate
+	//And User click on Continue button Register Affiliate
 	public void clickContinueButtonRegisterAffiliate() throws IOException {
 		Utilities.highlightelementRedBorder(continueButtonRegisterAffiliate);
 		Utilities.takeScreenShot("Retail-Register-ContinueButton");
 		continueButtonRegisterAffiliate.click();
 	}
 
-	// Then User should see a success message register as affiliate
+	//Then User should see a success message register as affiliate
 	@SuppressWarnings("deprecation")
 	public void verifySuccessMsgRegisterAsAffiliate() throws IOException {
 		Utilities.highlightelementRedBorder(successMsgRegisterAsAffiliate);
